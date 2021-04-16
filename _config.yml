@@ -63,6 +63,7 @@ kramdown:
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
+timezone: Europe/Warsaw
 
 #include:
 #  - _redirects
